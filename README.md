@@ -16,8 +16,9 @@ Here you can find links to my YouTube page where I will post trailers and tutori
 
 - ### [Download a Release](https://github.com/TLRomHacks/tag-anywhere-plus/releases)
 - ### [v1.0.0 Launch Trailer](https://www.youtube.com/watch?v=FFfOxoElUGU)
-- ### [YouTube - TLRomhacks](https://www.youtube.com/@TLRomhacks)
+- ### [Tag Anywhere Plus - Setup Tutorials](https://www.youtube.com/watch?v=6DwItRqeBDE&list=PLLJLxY1wMZcc)
 - ### [Tag Anywhere Plus - Feature Deep Dives Playlist](https://www.youtube.com/watch?v=S0UusFJ8IG8&list=PLAa4xh6dND8w)
+- ### [YouTube - TLRomhacks](https://www.youtube.com/@TLRomhacks)
 - ### [Reddit - TLRomhacks](https://www.reddit.com/user/TLRomhacks/)
 
 ## Attribution
